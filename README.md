@@ -23,3 +23,8 @@
     <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,git,github,docker,idea,linux,mongodb,mysql,postman,aws&perline=14" />
   </a>
 </p>
+<!-- <div id="user-content-toc">
+  <ul align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=NBakalik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NBakalik&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  </ul>
+</div> -->
